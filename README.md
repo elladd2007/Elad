@@ -1,6 +1,7 @@
 # Elad
 Neopixel led tower status
 
+For this macro will be active need to active veriables at printer.cfg
 
 Add this to your printer.cfg
 
